@@ -39,19 +39,33 @@ Implementación interactiva de 4 algoritmos fundamentales en gráficos rasteriza
 
 🧩 Estructura del Código
 /Proyecto
+
 ├── Algoritmos
+
 │   ├── DDA.cs                 # Algoritmo DDA
+
 │   ├── Bresenham.cs           # Bresenham para líneas
+
 │   ├── BresenhamCirculo.cs    # Algoritmo para círculos
+
 │   └── RellenoFiguras.cs      # Flood Fill con BFS
+
 │
+
 ├── Formularios
+
 │   ├── FrmHome.cs                       # Ventana principal MDI
+
 │   ├── FrmDDA.cs                        # Interfaz DDA
+
 │   ├── FrmBresenham.cs                  # Interfaz Bresenham
+
 │   ├── FrmBresenhamCircunferencias.cs   # Interfaz Bresenhm (Circunferencia)
+
 │   └── FrmRellenoFiguras.cs             # Interfaz para relleno
+
 │
+
 └── Program.cs                 # Punto de entrada
 
 🎯 Casos de Uso
