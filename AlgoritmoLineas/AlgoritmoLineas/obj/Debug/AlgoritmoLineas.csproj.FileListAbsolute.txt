@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\bin\Debug\AlgoritmoLineas.exe.config
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\bin\Debug\AlgoritmoLineas.exe
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\bin\Debug\AlgoritmoLineas.pdb
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.FrmHome.resources
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.Properties.Resources.resources
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.csproj.GenerateResource.cache
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.exe
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.pdb
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.FrmDDA.resources
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.FrmBresenham.resources
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.FrmBresenhamCircunferencias.resources
+C:\Users\David\source\repos\COMPUTACIONGRAFICA\AlgoritmoLineas\AlgoritmoLineas\AlgoritmoLineas\obj\Debug\AlgoritmoLineas.FrmRellenoFiguras.resources

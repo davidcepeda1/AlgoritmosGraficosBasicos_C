@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\rellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\rellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\bresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\bresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|c:\\users\\david\\source\\repos\\computaciongrafica\\algoritmolineas\\algoritmolineas\\algoritmolineas\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\frmbresenhamcircunferencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmbresenhamcircunferencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\frmrellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmrellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\frmrellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmrellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\frmbresenhamcircunferencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmbresenhamcircunferencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\bresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\bresenhamcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\algoritmolineas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C9DC67-F6C8-4EA3-982E-8CBA5AD662A1}|AlgoritmoLineas\\AlgoritmoLineas.csproj|solutionrelative:algoritmolineas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBresenham.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmBresenham.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmBresenham.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:17:18.062Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bresenham.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\Bresenham.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\Bresenham.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\Bresenham.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\Bresenham.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T02:13:45.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmHome.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmHome.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmHome.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmHome.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:26:22.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDDA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmDDA.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmDDA.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmDDA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmDDA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:16:17.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RellenoFiguras.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\RellenoFiguras.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\RellenoFiguras.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\RellenoFiguras.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\RellenoFiguras.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:59:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmHome.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmHome.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmHome.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmHome.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmHome.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:23:53.755Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBresenhamCircunferencias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmBresenhamCircunferencias.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmBresenhamCircunferencias.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmBresenhamCircunferencias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmBresenhamCircunferencias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:18:01.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmRellenoFiguras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmRellenoFiguras.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmRellenoFiguras.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmRellenoFiguras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmRellenoFiguras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:18:45.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDDA.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmDDA.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmDDA.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmDDA.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmDDA.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA/wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:20:54.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmRellenoFiguras.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmRellenoFiguras.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmRellenoFiguras.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmRellenoFiguras.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmRellenoFiguras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:01:39.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmBresenhamCircunferencias.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmBresenhamCircunferencias.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmBresenhamCircunferencias.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmBresenhamCircunferencias.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmBresenhamCircunferencias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:57:42.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BresenhamCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\BresenhamCirculo.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\BresenhamCirculo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\BresenhamCirculo.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\BresenhamCirculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:57:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmBresenham.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\FrmBresenham.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\FrmBresenham.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:45:00.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DDA.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\DDA.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\DDA.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\DDA.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\DDA.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:36:33.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\Program.cs",
+              "RelativeDocumentMoniker": "AlgoritmoLineas\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\COMPUTACIONGRAFICA\\AlgoritmoLineas\\AlgoritmoLineas\\AlgoritmoLineas\\Program.cs",
+              "RelativeToolTip": "AlgoritmoLineas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:03:31.511Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
